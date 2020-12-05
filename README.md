@@ -2,6 +2,6 @@
 
 This is a repo for study with tralhead!
 
-Some changes in the branch 1
+Changes made in the branch 2
 
-What will happen?
+What could happen?
